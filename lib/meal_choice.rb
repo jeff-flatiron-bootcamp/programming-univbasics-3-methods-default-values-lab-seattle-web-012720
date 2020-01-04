@@ -8,4 +8,4 @@ def meal_choice (veg1, veg2, protein="meat")
   someoutput
 end
 
-meal_choice ("broccoli", "macaroni")
+meal_choice("brocolli", "pasta")
