@@ -7,5 +7,3 @@ def meal_choice (veg1, veg2, protein="meat")
   puts someoutput
   someoutput
 end
-
-meal_choice("brocolli", "pasta")
